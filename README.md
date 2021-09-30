@@ -1,6 +1,6 @@
 # Pygame Lab
 
-This is the starter code used in the [Intensive 1 Pygame Lab](https://docs.google.com/presentation/d/18rlJz5q78frWXSEdH5cXDFJAdL1CZTz02tm3hleWIz4/edit?usp=sharing).
+This is the starter code used in the [Intensive 1 Pygame Lab](https://github.com/Tech-at-DU/pygame-lab).
 
 ## Install Pygame
 
